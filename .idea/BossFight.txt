@@ -1,9 +1,0 @@
-Boss Fight
- -Boss
-  -AI
-  -Attacks
-  -Health Bar
-  -Rewards
- -Arena
-  -Entrance
-  -Exit
