@@ -1,0 +1,22 @@
+---
+name: CrystalCaverns
+version: 0.0.1
+main: Lay\CrystalCaverns\CrystalCaverns
+api: 5.15.0
+commands:
+  tpworld:
+    description: "Spawns a Simulator"
+    usage: "/tpworld"
+    permission: perm
+  tprotect:
+    description: "Gives a diamond helmet with a toxic protection attribute from the given argument"
+    usage: "/tprotect"
+    permission: perm
+  spots:
+    description: "Saves Spots for mob to spawn"
+    usage: "/spots"
+    permission: perm
+permissions:
+  perm:
+    default: op
+...

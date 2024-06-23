@@ -1,0 +1,12 @@
+Cavern
+ -Special Blocks
+ -Ores
+ -Toxication
+ -Cavern Worlds
+ -UI
+
+Blocks
+    Get the specified Block
+    Check if the loot table is guranteed to roll or not if not then it must have a range
+    Run Loot table
+    Return the items from loot table
